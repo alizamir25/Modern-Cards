@@ -132,8 +132,6 @@ body{
     opacity: 1;
     visibility: visible;
 }
-
-/* ============= Responsive Ipad ==================== */
 @media (max-width: 992px){
  .creative-cards .container .row .card-column {
     flex: 0 0 auto;
@@ -141,8 +139,6 @@ body{
     margin-bottom: 40px;
 }
 }
-
-/* ============= Responsive Iphone ==================== */
 @media (max-width: 480px){
  .creative-cards .container .row .card-column {
     flex: 0 0 auto;
